@@ -1,0 +1,14 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =47
+        OnSelect: |-
+            ='[JohnDeere-Consultivo-DEV]TestandochamadaPowerApps'.Run(
+                "Lucas Pedro"
+            )
+        Text: ="Chamar Flow"
+        Width: =213
+        X: =572
+        Y: =328
+        ZIndex: =1
+

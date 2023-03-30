@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "f9fc2fa5-8db5-442d-8459-62574b1435b7",
+    "Name": "[JohnDeere-Consultivo-DEV]TestandochamadaPowerApps",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": null
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 4,
+    "Screen1": 3
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "03/30/2023 12:26:03",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "3026f076-5531-447a-b102-fd68e6911129": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/f9fc2fa58db5442d845962574b1435b7-9e61873aa43c6e59\"",
+    "82498de9-63bf-42e1-b92a-367fae11ef4f": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/f21a3db33a7c4dd9af96123d96fdbe2f\"",
+    "bec3511c-c690-4daf-a492-263e563d3d04": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/c19f9c0aa45b4b1681043f1c3146bb12\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "[JohnDeere-Consultivo-DEV]TestandochamadaPowerApps": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.047358,
+    "ControlCount": {
+      "button": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 3.3006672,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
